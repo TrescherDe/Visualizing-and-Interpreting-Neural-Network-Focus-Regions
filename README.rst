@@ -9,12 +9,37 @@ Furthermore, the study explores the impact of enhancing the realism of synthetic
 
 It then introduces an approach to evaluate model behavior through occlusion of these significant features. Additionally, a framework is provided for comparing the features identified on test images by models trained on synthetic data and those trained on real data, enabling an assessment of the differences between the models.
 
+Resources
+=========
+
 Pretrained Models
-========
+-----------------
+Download pretrained DETR models from:
 
-All pretrained DETR checkpoints used in our paper are available at:
+`Dropbox <https://www.dropbox.com/scl/fo/voa8orqf9ho4rpcud6x67/APGMblY-Fi8bhL1eN_Eu4Cg?rlkey=j8c59n90njebvuebz0fv7rb40&st=rtvvpxnt&dl=0>`_
 
-[Dropbox](https://www.dropbox.com/scl/fo/voa8orqf9ho4rpcud6x67/APGMblY-Fi8bhL1eN_Eu4Cg?rlkey=j8c59n90njebvuebz0fv7rb40&st=rtvvpxnt&dl=0)  
+Datasets
+--------
+We use the following dataset repository:
+
+`small-load-carrier-dataset <https://github.com/TrescherDe/small-load-carrier-dataset>`_
+
+Resources
+=========
+
+Pretrained Models
+-----------------
+Download pretrained DETR models from:
+
+`Dropbox <https://www.dropbox.com/scl/fo/voa8orqf9ho4rpcud6x67/APGMblY-Fi8bhL1eN_Eu4Cg?rlkey=j8c59n90njebvuebz0fv7rb40&st=rtvvpxnt&dl=0>`_
+
+Datasets
+--------
+We use the following dataset repository:
+
+`GitHub Repository <https://github.com/username/dataset-repo>`_
+
+
 
 Associated paper: *“Paper Title”* (link coming soon)
 
