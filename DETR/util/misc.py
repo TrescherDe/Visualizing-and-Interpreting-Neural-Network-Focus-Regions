@@ -18,10 +18,6 @@ from torch import Tensor
 
 # needed due to empty tensor bug in pytorch and torchvision 0.5
 import torchvision
-if float(torchvision.__version__[:3]) < 0.7:
-    from torchvision.ops import _new_empty_tensor
-    from torchvision.ops.misc import _output_size
-
 
 class SmoothedValue(object):
     """Track a series of values and provide access to smoothed values over a
@@ -446,22 +442,19 @@ def accuracy(output, target, topk=(1,)):
         res.append(correct_k.mul_(100.0 / batch_size))
     return res
 
-
 def interpolate(input, size=None, scale_factor=None, mode="nearest", align_corners=None):
-    # type: (Tensor, Optional[List[int]], Optional[float], str, Optional[bool]) -> Tensor
-    """
-    Equivalent to nn.functional.interpolate, but with support for empty batch sizes.
-    This will eventually be supported natively by PyTorch, and this
-    class can go away.
-    """
-    if float(torchvision.__version__[:3]) < 0.7:
-        if input.numel() > 0:
-            return torch.nn.functional.interpolate(
-                input, size, scale_factor, mode, align_corners
-            )
+    if input.numel() == 0:
+        # Create an empty tensor with the expected output shape
+        if size is not None:
+            output_shape = list(input.shape[:-2]) + list(size)
+        elif scale_factor is not None:
+            output_shape = list(input.shape[:-2]) + [
+                int(input.shape[-2] * scale_factor),
+                int(input.shape[-1] * scale_factor)
+            ]
+        else:
+            raise ValueError("Either size or scale_factor must be defined")
 
-        output_shape = _output_size(2, input, size, scale_factor)
-        output_shape = list(input.shape[:-2]) + list(output_shape)
-        return _new_empty_tensor(input, output_shape)
+        return input.new_empty(output_shape)
     else:
-        return torchvision.ops.misc.interpolate(input, size, scale_factor, mode, align_corners)
+        return F.interpolate(input, size, scale_factor, mode, align_corners)
