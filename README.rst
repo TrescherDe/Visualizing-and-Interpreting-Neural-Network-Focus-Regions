@@ -35,9 +35,18 @@ Download pretrained DETR models from:
 
 Datasets
 --------
-We use the following dataset repository:
+The datasets used in this work are included by cloning the following repository into a `datasets/` folder within this repository:
 
-`GitHub Repository <https://github.com/username/dataset-repo>`_
+`small-load-carrier-dataset <https://github.com/your-username/small-load-carrier-dataset>`_
+
+This repository contains the four datasets referenced in the paper:
+
+- **Real**: A real image dataset containing the small load carrier and a small storage box with material properties similar to the small load carrier.
+- **Storage Box**: A baseline synthetic dataset generated using Blender and 3D meshes of the objects of interest.
+- **SD-V1**: A synthetic dataset augmenting the baseline using Stable Diffusion.
+- **SD-V2**: A synthetic dataset augmenting the baseline using Stable Diffusion with a focus on photorealism.
+
+Each dataset contains 500 images, split into `train/` and `val/` subsets.
 
 
 
