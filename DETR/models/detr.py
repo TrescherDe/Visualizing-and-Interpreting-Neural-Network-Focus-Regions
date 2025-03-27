@@ -337,6 +337,8 @@ def build(args):
         num_classes = 250
     device = torch.device(args.device)
 
+    # change it according to your number of classes
+    num_classes = 1
     backbone = build_backbone(args)
 
     transformer = build_transformer(args)
