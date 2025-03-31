@@ -5,9 +5,26 @@ This fork extends the original `Transformer-MM-Explainability <https://github.co
 
 This study compares the features learned by transformer networks on synthetic and real image data by analyzing their size, quantity, and spatial distribution using a feature visualization technique to investigate the networks' decision-making processes.
 
-Furthermore, the study explores the impact of enhancing the realism of synthetic images using generative artificial intelligence techniques on model performance. Specifically, it investigates whether more realistic synthetic images influence the transfer of learned features to real-world applications, with the aim of addressing the domain gap between synthetic and real-world images.
+The notebook for visualizing the high attention areas ("features") extracted from the method of `Transformer-MM-Explainability <https://github.com/hila-chefer/Transformer-MM-Explainability>`_ repository and for the occlusion approach of these features is located in:
 
-It then introduces an approach to evaluate model behavior through occlusion of these significant features. Additionally, a framework is provided for comparing the features identified on test images by models trained on synthetic data and those trained on real data, enabling an assessment of the differences between the models.
+- **`DETR_feature_visualization_and_occlusion.ipynb`**
+
+To access the details of these features and perform further analysis, use the notebook:
+
+- **`DETR_results_feature_analysis.ipynb`**
+
+It then introduces an approach to evaluate model behavior through occlusion of these significant features.
+Additionally, a framework is provided for comparing the features identified on test images by models trained on synthetic data and those trained on real data, enabling an assessment of the differences between the models.
+
+This evaluation is performed in:
+
+- **`DETR_feature_and_occlusion_evaluation.ipynb`**
+
+The notebook for generating the plot for the occlusion analysis is located in:
+
+- **`DETR_occlusion_analysis.ipynb`**
+
+Furthermore, the study explores the impact of enhancing the realism of synthetic images using generative artificial intelligence techniques on model performance. Specifically, it investigates whether more realistic synthetic images influence the transfer of learned features to real-world applications, with the aim of addressing the domain gap between synthetic and real-world images.
 
 Resources
 =========
