@@ -46,7 +46,7 @@ If you use this code, please link to this repository.
 
    % Our paper (preprint link will be added soon)
    % @InProceedings{Citation,
-   %    author    = {Trescher, Denis and Haag, Waldenar and Schröder, Enrico},
+   %    author    = {Trescher, Denis and Haag, Waldemar and Schröder, Enrico},
    %    title     = {Visualizing-and-Interpreting-Neural-Network-Features},
    %    booktitle = {Conference},
    %    year      = {2025},
