@@ -1,0 +1,192 @@
+
+DETR_results_comparison_paper/results_comparison_real_500_deterministic1.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 1.00          | 12
+0.33            | 0.92          | 117
+0.40            |                | 
+0.50            | 0.87          | 268
+0.60            |                | 
+0.67            | 0.74          | 117
+0.75            | 0.92          | 12
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.27          | 413
+
+DETR_results_comparison_paper/results_comparison_real_500_deterministic2.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 0.88          | 8
+0.33            | 0.95          | 99
+0.40            |                | 
+0.50            | 0.77          | 274
+0.60            |                | 
+0.67            | 0.76          | 99
+0.75            | 0.50          | 8
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.35          | 406
+
+DETR_results_comparison_paper/results_comparison_real_500_deterministic3.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            | 1.00          | 5
+0.25            | 1.00          | 16
+0.33            | 0.94          | 69
+0.40            | 1.00          | 10
+0.50            | 0.85          | 176
+0.60            | 1.00          | 10
+0.67            | 0.83          | 69
+0.75            | 0.69          | 16
+0.80            | 1.00          | 5
+0.83            |                | 
+1.00            | 0.23          | 412
+
+DETR_results_comparison_paper/results_comparison_storage_box_labeled_deterministic1.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            | 1.00          | 6
+0.20            | 1.00          | 25
+0.25            | 0.96          | 52
+0.33            | 0.99          | 96
+0.40            | 0.98          | 50
+0.50            | 0.81          | 256
+0.60            | 0.72          | 50
+0.67            | 0.73          | 96
+0.75            | 0.54          | 52
+0.80            | 0.32          | 25
+0.83            | 0.17          | 6
+1.00            | 0.39          | 347
+
+DETR_results_comparison_paper/results_comparison_storage_box_labeled_deterministic2.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 1.00          | 8
+0.33            | 0.96          | 75
+0.40            |                | 
+0.50            | 0.81          | 142
+0.60            |                | 
+0.67            | 0.85          | 75
+0.75            | 0.62          | 8
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.42          | 364
+
+DETR_results_comparison_paper/results_comparison_storage_box_labeled_deterministic3.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 0.96          | 24
+0.33            | 0.75          | 75
+0.40            |                | 
+0.50            | 0.54          | 196
+0.60            |                | 
+0.67            | 0.39          | 75
+0.75            | 0.46          | 24
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.05          | 280
+
+DETR_results_comparison_paper/results_comparison_SD_V1_deterministic1.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            | 0.80          | 10
+0.25            | 0.67          | 48
+0.33            | 0.68          | 114
+0.40            | 0.65          | 20
+0.50            | 0.58          | 254
+0.60            | 0.50          | 20
+0.67            | 0.39          | 114
+0.75            | 0.38          | 48
+0.80            | 0.60          | 10
+0.83            |                | 
+1.00            | 0.21          | 217
+
+DETR_results_comparison_paper/results_comparison_SD_V1_deterministic2.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 1.00          | 44
+0.33            | 0.99          | 159
+0.40            |                | 
+0.50            | 0.85          | 320
+0.60            |                | 
+0.67            | 0.92          | 159
+0.75            | 0.93          | 44
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.48          | 342
+
+DETR_results_comparison_paper/results_comparison_SD_V1_deterministic3.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 0.97          | 36
+0.33            | 0.88          | 78
+0.40            |                | 
+0.50            | 0.75          | 238
+0.60            |                | 
+0.67            | 0.73          | 78
+0.75            | 0.67          | 36
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.39          | 332
+
+DETR_results_comparison_paper/results_comparison_SD_V2_deterministic1.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 1.00          | 24
+0.33            | 0.89          | 99
+0.40            |                | 
+0.50            | 0.71          | 262
+0.60            |                | 
+0.67            | 0.59          | 99
+0.75            | 0.75          | 24
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.22          | 354
+
+DETR_results_comparison_paper/results_comparison_SD_V2_deterministic2.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            |                | 
+0.25            | 1.00          | 20
+0.33            | 0.98          | 63
+0.40            |                | 
+0.50            | 0.96          | 180
+0.60            |                | 
+0.67            | 0.92          | 63
+0.75            | 0.95          | 20
+0.80            |                | 
+0.83            |                | 
+1.00            | 0.59          | 370
+
+DETR_results_comparison_paper/results_comparison_SD_V2_deterministic3.txt:
+Occlusion Ratio | Success Ratio | Data Points
+----------------|---------------|------------
+0.17            |                | 
+0.20            | 1.00          | 5
+0.25            | 1.00          | 20
+0.33            | 0.97          | 39
+0.40            | 1.00          | 10
+0.50            | 0.80          | 144
+0.60            | 0.90          | 10
+0.67            | 0.79          | 39
+0.75            | 0.90          | 20
+0.80            | 0.40          | 5
+0.83            |                | 
+1.00            | 0.43          | 299

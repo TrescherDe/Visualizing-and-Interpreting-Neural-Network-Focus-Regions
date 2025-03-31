@@ -1,0 +1,76 @@
+Number of matching filenames: 160
+Matching filenames: ['frame000046_rgb.pngbbox0', 'frame000050_rgb.pngbbox0', 'frame000051_rgb.pngbbox0', 'frame000053_rgb.pngbbox0', 'frame000110_rgb.pngbbox0', 'frame000114_rgb.pngbbox0', 'frame000115_rgb.pngbbox0', 'frame000117_rgb.pngbbox0', 'frame000120_rgb.pngbbox0', 'frame000123_rgb.pngbbox0', 'frame000125_rgb.pngbbox1', 'frame000126_rgb.pngbbox0', 'frame000127_rgb.pngbbox1', 'frame000128_rgb.pngbbox0', 'frame000129_rgb.pngbbox1', 'frame000130_rgb.pngbbox0', 'frame000131_rgb.pngbbox1', 'frame000132_rgb.pngbbox0', 'frame000135_rgb.pngbbox0', 'frame000136_rgb.pngbbox1', 'frame000137_rgb.pngbbox0', 'frame000138_rgb.pngbbox1', 'frame000139_rgb.pngbbox1', 'frame000140_rgb.pngbbox1', 'frame000141_rgb.pngbbox1', 'frame000142_rgb.pngbbox1', 'frame000143_rgb.pngbbox1', 'frame000144_rgb.pngbbox1', 'frame000145_rgb.pngbbox0', 'frame000146_rgb.pngbbox1', 'frame000147_rgb.pngbbox1', 'frame000148_rgb.pngbbox1', 'frame000149_rgb.pngbbox1', 'frame000150_rgb.pngbbox1', 'frame000151_rgb.pngbbox1', 'frame000152_rgb.pngbbox1', 'frame000153_rgb.pngbbox1', 'frame000154_rgb.pngbbox1', 'frame000176_rgb.pngbbox0', 'frame000177_rgb.pngbbox1', 'frame000180_rgb.pngbbox1', 'frame000181_rgb.pngbbox0', 'frame000182_rgb.pngbbox0', 'frame000182_rgb.pngbbox1', 'frame000213_rgb.pngbbox0', 'frame000214_rgb.pngbbox0', 'frame000215_rgb.pngbbox0', 'frame000216_rgb.pngbbox0', 'frame000217_rgb.pngbbox0', 'frame000218_rgb.pngbbox0', 'frame000219_rgb.pngbbox0', 'frame000220_rgb.pngbbox0', 'frame000221_rgb.pngbbox0', 'frame000222_rgb.pngbbox0', 'frame000224_rgb.pngbbox0', 'frame000225_rgb.pngbbox0', 'frame000237_rgb.pngbbox0', 'frame000238_rgb.pngbbox0', 'frame000239_rgb.pngbbox0', 'frame000240_rgb.pngbbox0', 'frame000241_rgb.pngbbox0', 'frame000242_rgb.pngbbox0', 'frame000255_rgb.pngbbox0', 'frame000256_rgb.pngbbox0', 'frame000257_rgb.pngbbox0', 'frame000258_rgb.pngbbox0', 'frame000259_rgb.pngbbox0', 'frame000260_rgb.pngbbox0', 'frame000261_rgb.pngbbox0', 'frame000262_rgb.pngbbox0', 'frame000263_rgb.pngbbox0', 'frame000264_rgb.pngbbox0', 'frame000265_rgb.pngbbox0', 'frame000266_rgb.pngbbox0', 'frame000267_rgb.pngbbox0', 'frame000268_rgb.pngbbox0', 'frame000269_rgb.pngbbox0', 'frame000270_rgb.pngbbox0', 'frame000271_rgb.pngbbox0', 'frame000272_rgb.pngbbox0', 'frame000322_rgb.pngbbox0', 'frame000323_rgb.pngbbox0', 'frame000324_rgb.pngbbox0', 'frame000325_rgb.pngbbox0', 'frame000326_rgb.pngbbox0', 'frame000327_rgb.pngbbox0', 'frame000328_rgb.pngbbox0', 'frame000329_rgb.pngbbox0', 'frame000330_rgb.pngbbox0', 'frame000331_rgb.pngbbox0', 'frame000335_rgb.pngbbox0', 'frame000336_rgb.pngbbox0', 'frame000337_rgb.pngbbox0', 'frame000342_rgb.pngbbox0', 'frame000343_rgb.pngbbox0', 'frame000344_rgb.pngbbox0', 'frame000345_rgb.pngbbox0', 'frame000346_rgb.pngbbox0', 'frame000347_rgb.pngbbox0', 'frame000348_rgb.pngbbox0', 'frame000349_rgb.pngbbox0', 'frame000353_rgb.pngbbox0', 'frame000354_rgb.pngbbox0', 'frame000355_rgb.pngbbox0', 'frame000431_rgb.pngbbox0', 'frame000432_rgb.pngbbox0', 'frame000433_rgb.pngbbox0', 'frame000434_rgb.pngbbox0', 'frame000435_rgb.pngbbox0', 'frame000436_rgb.pngbbox0', 'frame000437_rgb.pngbbox0', 'frame000438_rgb.pngbbox0', 'frame000439_rgb.pngbbox0', 'frame000440_rgb.pngbbox0', 'frame000450_rgb.pngbbox0', 'frame000451_rgb.pngbbox0', 'frame000452_rgb.pngbbox0', 'frame000453_rgb.pngbbox0', 'frame000454_rgb.pngbbox0', 'frame000455_rgb.pngbbox0', 'frame000456_rgb.pngbbox0', 'frame000459_rgb.pngbbox0', 'frame000460_rgb.pngbbox0', 'frame000461_rgb.pngbbox0', 'frame000462_rgb.pngbbox0', 'frame000464_rgb.pngbbox0', 'frame000465_rgb.pngbbox0', 'frame000466_rgb.pngbbox0', 'frame000467_rgb.pngbbox0', 'frame000485_rgb.pngbbox0', 'frame000486_rgb.pngbbox0', 'frame000487_rgb.pngbbox0', 'frame000488_rgb.pngbbox0', 'frame000489_rgb.pngbbox0', 'frame000490_rgb.pngbbox0', 'frame000491_rgb.pngbbox0', 'frame000492_rgb.pngbbox0', 'frame000493_rgb.pngbbox0', 'frame000494_rgb.pngbbox0', 'frame000495_rgb.pngbbox0', 'frame000496_rgb.pngbbox0', 'frame000497_rgb.pngbbox0', 'frame000498_rgb.pngbbox0', 'frame000499_rgb.pngbbox0', 'frame000500_rgb.pngbbox0', 'frame000501_rgb.pngbbox0', 'frame000507_rgb.pngbbox0', 'frame000508_rgb.pngbbox0', 'frame000509_rgb.pngbbox0', 'frame000510_rgb.pngbbox0', 'frame000511_rgb.pngbbox0', 'frame000512_rgb.pngbbox0', 'frame000513_rgb.pngbbox0', 'frame000514_rgb.pngbbox0', 'frame000515_rgb.pngbbox0', 'frame000516_rgb.pngbbox0', 'frame000517_rgb.pngbbox0', 'frame000518_rgb.pngbbox0', 'frame000519_rgb.pngbbox0', 'frame000520_rgb.pngbbox0']
+
+Average values based on the common filenames:
+Real1:
+Average high attention value: 0.36
+Average number of quadrants: 3.39
+Average number of big features: 1.14
+Average number of small features: 0.59
+
+Real2:
+Average high attention value: 0.29
+Average number of quadrants: 3.12
+Average number of big features: 1.11
+Average number of small features: 0.49
+
+Real3:
+Average high attention value: 0.41
+Average number of quadrants: 3.40
+Average number of big features: 1.06
+Average number of small features: 0.42
+
+Storage_Box1:
+Average high attention value: 0.42
+Average number of quadrants: 3.92
+Average number of big features: 1.16
+Average number of small features: 0.51
+
+Storage_Box2:
+Average high attention value: 0.49
+Average number of quadrants: 3.91
+Average number of big features: 1.00
+Average number of small features: 0.38
+
+Storage_Box3:
+Average high attention value: 0.37
+Average number of quadrants: 3.85
+Average number of big features: 1.06
+Average number of small features: 0.52
+
+SD_V1_1:
+Average high attention value: 0.23
+Average number of quadrants: 3.56
+Average number of big features: 0.91
+Average number of small features: 1.11
+
+SD_V1_2:
+Average high attention value: 0.40
+Average number of quadrants: 3.86
+Average number of big features: 1.16
+Average number of small features: 0.61
+
+SD_V1_3:
+Average high attention value: 0.39
+Average number of quadrants: 3.85
+Average number of big features: 1.05
+Average number of small features: 0.54
+
+SD_V2_1:
+Average high attention value: 0.39
+Average number of quadrants: 3.76
+Average number of big features: 1.07
+Average number of small features: 0.49
+
+SD_V2_2:
+Average high attention value: 0.51
+Average number of quadrants: 3.92
+Average number of big features: 1.07
+Average number of small features: 0.28
+
+SD_V2_3:
+Average high attention value: 0.52
+Average number of quadrants: 3.95
+Average number of big features: 1.08
+Average number of small features: 0.28
+
