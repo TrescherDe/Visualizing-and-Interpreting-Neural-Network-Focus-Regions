@@ -20,24 +20,9 @@ Download pretrained DETR models from:
 
 Datasets
 --------
-We use the following dataset repository:
-
-`small-load-carrier-dataset <https://github.com/TrescherDe/small-load-carrier-dataset>`_
-
-Resources
-=========
-
-Pretrained Models
------------------
-Download pretrained DETR models from:
-
-`Dropbox <https://www.dropbox.com/scl/fo/voa8orqf9ho4rpcud6x67/APGMblY-Fi8bhL1eN_Eu4Cg?rlkey=j8c59n90njebvuebz0fv7rb40&st=rtvvpxnt&dl=0>`_
-
-Datasets
---------
 The datasets used in this work are included by cloning the following repository into a `datasets/` folder within this repository:
 
-`small-load-carrier-dataset <https://github.com/your-username/small-load-carrier-dataset>`_
+`small-load-carrier-dataset <https://github.com/TrescherDe/small-load-carrier-dataset>`_
 
 This repository contains the four datasets referenced in the paper:
 
