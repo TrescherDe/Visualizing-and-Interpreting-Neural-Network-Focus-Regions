@@ -41,15 +41,15 @@ The datasets used in this work are included by cloning the following repository 
 
 `small-load-carrier-dataset <https://github.com/TrescherDe/small-load-carrier-dataset>`_
 
-This repository contains the four datasets referenced in the paper:
+This repository contains the datasets referenced in the paper:
 
-- **Real**: A real image dataset containing the small load carrier and a small storage box with material properties similar to the small load carrier.
-- **Storage Box**: A baseline synthetic dataset generated using Blender and 3D meshes of the objects of interest.
-- **SD-V1**: A synthetic dataset augmenting the baseline using Stable Diffusion.
-- **SD-V2**: A synthetic dataset augmenting the baseline using Stable Diffusion with a focus on photorealism.
+- **Real**: A dataset containing real images of small load carriers and a small storage box with material properties similar to the small load carrier.
+- **Storage Box**: The baseline synthetic dataset containing images generated using Blender and 3D meshes of small load carriers and a small storage box with similar material properties.
+- **SD-V1**: A baseline-extended dataset augmenting the baseline using Stable Diffusion.
+- **SD-V2**: A baseline-extended dataset augmenting the baseline using Stable Diffusion, focusing on photorealism.
+- **Testvideo**: A dataset containing images of the small load carrier, a small storage box with similar material properties, and other distracting objects in a real warehouse environment.
 
 Each dataset contains 500 images, split into `train/` and `val/` subsets.
-
 
 
 Associated paper: *“Paper Title”* (link coming soon)
