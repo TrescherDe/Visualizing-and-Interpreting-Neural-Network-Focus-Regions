@@ -51,6 +51,8 @@ This repository contains the datasets referenced in the paper:
 
 Each dataset contains 500 images, split into `train/` and `val/` subsets.
 
+.. image:: docs/images/dataset.png
+   :alt: Dataset visualization
 
 Associated paper: *“Paper Title”* (link coming soon)
 
