@@ -54,7 +54,7 @@ Each dataset contains 500 images, split into `train/` and `val/` subsets.
 .. image:: docs/images/dataset.png
    :alt: Dataset visualization
 
-Associated paper: *“Paper Title”* (link coming soon)
+Associated paper: *“Visualizing and Interpreting Neural Network Focus Regions: A Comparative Study of Vision Transformers on Synthetic and Real Data”* (https://doi.org/10.1007/978-3-032-02813-6_22)
 
 Citation
 ========
@@ -63,14 +63,18 @@ If you use this code, please link to this repository.
 
 .. code-block:: latex
 
-   % Our paper (preprint link will be added soon)
-   % @InProceedings{Citation,
-   %    author    = {Trescher, Denis and Haag, Waldemar and Schröder, Enrico},
-   %    title     = {Visualizing-and-Interpreting-Neural-Network-Features},
-   %    booktitle = {Conference},
-   %    year      = {2025},
-   %    url       = {https://arxiv.org/abs/paper},
-   % }
+   @InProceedings{10.1007/978-3-032-02813-6_22,
+  author    = {Trescher, Denis and Haag, Waldemar and Schröder, Enrico},
+  editor    = {Braun, Tanya and Paassen, Benjamin and Stolzenburg, Frieder},
+  title     = {Visualizing and Interpreting Neural Network Focus Regions: A Comparative Study of Vision Transformers on Synthetic and Real Data},
+  booktitle = {KI 2025: Advances in Artificial Intelligence},
+  year      = {2026},
+  publisher = {Springer Nature Switzerland},
+  address   = {Cham},
+  pages     = {270--277},
+  isbn      = {978-3-032-02813-6},
+  doi       = {10.1007/978-3-032-02813-6_22}
+  }
 
 Original visualization code:
 
